@@ -6,9 +6,9 @@ ext.versions = [
         versionName       : "1.9",
 
         // Plugins
-        gradlePlugin      : "4.2.0-alpha13",
-        googleServices    : "4.2.0",
-        crashlyticsPlugin : "2.3.0",
+        gradlePlugin      : '7.1.2',
+        googleServices    : '4.3.10',
+        crashlyticsPlugin : '2.5.2',
         spotlessPlugin    : "3.17.0",
 
         // Kotlin
